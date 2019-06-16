@@ -1,0 +1,23 @@
+.title{
+  color:#02ccba;
+}
+
+.header{
+　font-size: 90px;
+  font-family: sans-serif;
+}
+
+.main{
+  background-color:#02ccba;
+  height:150px;
+  width:300px;
+}
+
+.footer{
+  background-color:red;
+  height:80px;
+  width:800px;
+}
+
+h2{
+}
